@@ -1,0 +1,33 @@
+[0.601s] Invoking command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data
+[0.806s] running egg_info
+[0.807s] creating ../../build/simple_py_pkg/simple_py_pkg.egg-info
+[0.807s] writing ../../build/simple_py_pkg/simple_py_pkg.egg-info/PKG-INFO
+[0.808s] writing dependency_links to ../../build/simple_py_pkg/simple_py_pkg.egg-info/dependency_links.txt
+[0.808s] writing entry points to ../../build/simple_py_pkg/simple_py_pkg.egg-info/entry_points.txt
+[0.808s] writing requirements to ../../build/simple_py_pkg/simple_py_pkg.egg-info/requires.txt
+[0.808s] writing top-level names to ../../build/simple_py_pkg/simple_py_pkg.egg-info/top_level.txt
+[0.809s] writing manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[0.812s] reading manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[0.813s] writing manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[0.813s] running build
+[0.813s] running build_py
+[0.813s] creating /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build
+[0.813s] creating /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib
+[0.813s] creating /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[0.813s] copying simple_py_pkg/__init__.py -> /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[0.813s] running install
+[0.813s] running install_lib
+[0.815s] creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[0.815s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/__init__.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[0.815s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/__init__.py to __init__.cpython-310.pyc
+[0.816s] running install_data
+[0.816s] creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/ament_index
+[0.816s] creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/ament_index/resource_index
+[0.816s] creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/ament_index/resource_index/packages
+[0.817s] copying resource/simple_py_pkg -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/ament_index/resource_index/packages
+[0.817s] copying package.xml -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/simple_py_pkg
+[0.817s] running install_egg_info
+[0.818s] Copying ../../build/simple_py_pkg/simple_py_pkg.egg-info to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info
+[0.819s] running install_scripts
+[0.840s] writing list of installed files to '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log'
+[0.944s] Invoked command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg' returned '0': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data
