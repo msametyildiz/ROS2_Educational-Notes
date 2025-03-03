@@ -15,4 +15,5 @@
 /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info/zip-safe
 /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info/requires.txt
 /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info/SOURCES.txt
-/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg/py_node = simple_py_pkg.simple_py_node:maincounter_node
+/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg/counter_node
+/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg/py_node

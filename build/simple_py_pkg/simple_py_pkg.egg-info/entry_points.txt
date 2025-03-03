@@ -1,3 +1,4 @@
 [console_scripts]
-py_node = simple_py_pkg.simple_py_node:maincounter_node = simple_py_pkg.counter_node:main
+counter_node = simple_py_pkg.counter_node:main
+py_node = simple_py_pkg.simple_py_node:main
 
