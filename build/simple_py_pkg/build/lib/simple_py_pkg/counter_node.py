@@ -14,6 +14,7 @@ class CounterNode(Node): # 1
 
 
 def main(args = None):   
+    rclpy.init(args=args)
     node = CounterNode()# 3
     rclpy.spin(node)
     rclpy.shutdown()
