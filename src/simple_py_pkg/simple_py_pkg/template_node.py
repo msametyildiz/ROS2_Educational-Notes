@@ -7,6 +7,7 @@ class CustomNodeName(Node): # 1
         super().__init__("custom_node_name") # 2
 
 def main(args = None):   
+    rclpy.init(args=args)
     node = CustomNodeName()# 3
     rclpy.spin(node)
     rclpy.shutdown()

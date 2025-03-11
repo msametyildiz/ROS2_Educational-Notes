@@ -1,6 +1,6 @@
 from setuptools import find_packages, setup
 
-package_name = 'simple_py_pkg'
+package_name = 'turtlesim_py_pkg'
 
 setup(
     name=package_name,
@@ -14,18 +14,12 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='muhammed-samet-yildiz',
-    maintainer_email='muhammed-samet-yildiz@todo.todo',
+    maintainer_email='muhammedsamet.yildiz.06@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
     tests_require=['pytest'],
     entry_points={
         'console_scripts': [
-            "py_node = simple_py_pkg.simple_py_node:main",
-            "counter_node = simple_py_pkg.counter_node:main",
-            "television_node = simple_py_pkg.television:main",
-            "remote_controller_nod  e = simple_py_pkg.remote_controller:main",
-            "channel_node = simple_py_pkg.channel_node:main"
-
         ],
     },
 )
