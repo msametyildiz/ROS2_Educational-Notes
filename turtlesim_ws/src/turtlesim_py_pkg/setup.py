@@ -17,9 +17,12 @@ setup(
     maintainer_email='muhammedsamet.yildiz.06@gmail.com',
     description='TODO: Package description',
     license='TODO: License declaration',
-    tests_require=['pytest'],
+    tests_require=['pytest'], 
     entry_points={
         'console_scripts': [
+            "vel_controller = turtlesim_py_pkg.vel_controller:main",
+            "go_to_loc = turtlesim_py_pkg.go_to_loc:main"
+
         ],
     },
 )
