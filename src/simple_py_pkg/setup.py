@@ -23,8 +23,12 @@ setup(
             "py_node = simple_py_pkg.simple_py_node:main",
             "counter_node = simple_py_pkg.counter_node:main",
             "television_node = simple_py_pkg.television:main",
-            "remote_controller_nod  e = simple_py_pkg.remote_controller:main",
-            "channel_node = simple_py_pkg.channel_node:main"
+            "remote_controller_node = simple_py_pkg.remote_controller:main",
+            "channel_node = simple_py_pkg.channel_node:main",
+            "add_two_ints_server_node = simple_py_pkg.add_two_ints_server:main",
+            "add_two_ints_client_node = simple_py_pkg.add_two_ints_client:main",
+            "add_two_ints_client_oop_node = simple_py_pkg.add_two_ints_client_oop:main"
+
 
         ],
     },

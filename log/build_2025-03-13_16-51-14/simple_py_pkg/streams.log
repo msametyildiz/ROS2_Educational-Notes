@@ -1,0 +1,22 @@
+[0.509s] Invoking command in '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build --no-deps symlink_data
+[0.721s] running develop
+[0.839s] running egg_info
+[0.840s] writing simple_py_pkg.egg-info/PKG-INFO
+[0.840s] writing dependency_links to simple_py_pkg.egg-info/dependency_links.txt
+[0.840s] writing entry points to simple_py_pkg.egg-info/entry_points.txt
+[0.840s] writing requirements to simple_py_pkg.egg-info/requires.txt
+[0.841s] writing top-level names to simple_py_pkg.egg-info/top_level.txt
+[0.842s] reading manifest file 'simple_py_pkg.egg-info/SOURCES.txt'
+[0.851s] writing manifest file 'simple_py_pkg.egg-info/SOURCES.txt'
+[0.852s] running build_ext
+[0.852s] Creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple-py-pkg.egg-link (link to .)
+[0.853s] Installing add_two_ints_server_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.854s] Installing channel_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.854s] Installing counter_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.854s] Installing py_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.854s] Installing remote_controller_nod  e script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.854s] Installing television_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[0.855s] 
+[0.855s] Installed /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg
+[0.855s] running symlink_data
+[0.891s] Invoked command in '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg' returned '0': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build --no-deps symlink_data
