@@ -1,0 +1,59 @@
+[0.801s] Invoking command in '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg': AMENT_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build
+[1.116s] running develop
+[1.319s] Removing /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple-py-pkg.egg-link (link to .)
+[1.363s] Invoked command in '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --uninstall --editable --build-directory /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build
+[1.366s] Invoking command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg': AMENT_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data --force
+[1.669s] running egg_info
+[1.670s] writing ../../build/simple_py_pkg/simple_py_pkg.egg-info/PKG-INFO
+[1.670s] writing dependency_links to ../../build/simple_py_pkg/simple_py_pkg.egg-info/dependency_links.txt
+[1.671s] writing entry points to ../../build/simple_py_pkg/simple_py_pkg.egg-info/entry_points.txt
+[1.671s] writing requirements to ../../build/simple_py_pkg/simple_py_pkg.egg-info/requires.txt
+[1.671s] writing top-level names to ../../build/simple_py_pkg/simple_py_pkg.egg-info/top_level.txt
+[1.673s] reading manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[1.682s] writing manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[1.682s] running build
+[1.682s] running build_py
+[1.682s] copying simple_py_pkg/add_two_ints_server.py -> /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[1.683s] copying simple_py_pkg/add_two_ints_client_oop.py -> /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[1.683s] copying simple_py_pkg/add_two_ints_client.py -> /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[1.684s] copying simple_py_pkg/components_status_publisher.py -> /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg
+[1.684s] running install
+[1.684s] running install_lib
+[1.686s] creating /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.686s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/__init__.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.686s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/simple_py_node.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.687s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/add_two_ints_server.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.687s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/add_two_ints_client_oop.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.687s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/add_two_ints_client.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.687s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/counter_node.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.688s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/television.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.688s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/template_node.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.688s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/remote_controller.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.688s] copying /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build/lib/simple_py_pkg/components_status_publisher.py -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg
+[1.689s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.690s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/simple_py_node.py to simple_py_node.cpython-310.pyc
+[1.690s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/add_two_ints_server.py to add_two_ints_server.cpython-310.pyc
+[1.690s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/add_two_ints_client_oop.py to add_two_ints_client_oop.cpython-310.pyc
+[1.691s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/add_two_ints_client.py to add_two_ints_client.cpython-310.pyc
+[1.691s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/counter_node.py to counter_node.cpython-310.pyc
+[1.692s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/television.py to television.cpython-310.pyc
+[1.692s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/template_node.py to template_node.cpython-310.pyc
+[1.693s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/remote_controller.py to remote_controller.cpython-310.pyc
+[1.693s] byte-compiling /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg/components_status_publisher.py to components_status_publisher.cpython-310.pyc
+[1.694s] running install_data
+[1.694s] copying resource/simple_py_pkg -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/ament_index/resource_index/packages
+[1.694s] copying package.xml -> /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/share/simple_py_pkg
+[1.694s] running install_egg_info
+[1.697s] Copying ../../build/simple_py_pkg/simple_py_pkg.egg-info to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info
+[1.699s] running install_scripts
+[1.726s] Installing add_two_ints_client_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.726s] Installing add_two_ints_client_oop_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.727s] Installing add_two_ints_server_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.727s] Installing channel_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.727s] Installing components_status_publisher script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.727s] Installing counter_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.728s] Installing py_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.728s] Installing remote_controller_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.728s] Installing television_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.728s] writing list of installed files to '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log'
+[1.768s] Invoked command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg' returned '0': AMENT_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg LD_LIBRARY_PATH=/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:/home/muhammed-samet-yildiz/ros2_ws/install/simple_interfaces_pkg/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data --force

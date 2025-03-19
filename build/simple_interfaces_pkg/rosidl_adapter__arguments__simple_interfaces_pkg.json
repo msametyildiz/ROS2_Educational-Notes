@@ -1,0 +1,7 @@
+{
+  "package_name": "simple_interfaces_pkg",
+  "non_idl_tuples": [
+    "/home/muhammed-samet-yildiz/ros2_ws/src/simple_interfaces_pkg:msg/ComponentsStatus.msg",
+    "/home/muhammed-samet-yildiz/ros2_ws/src/simple_interfaces_pkg:srv/MultiplyTwoInts.srv"
+  ]
+}

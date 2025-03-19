@@ -1,0 +1,1 @@
+/home/muhammed-samet-yildiz/ros2_ws/build/simple_interfaces_pkg/rosidl_generator_py/simple_interfaces_pkg/srv/_multiply_two_ints_s.c

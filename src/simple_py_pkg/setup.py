@@ -27,9 +27,9 @@ setup(
             "channel_node = simple_py_pkg.channel_node:main",
             "add_two_ints_server_node = simple_py_pkg.add_two_ints_server:main",
             "add_two_ints_client_node = simple_py_pkg.add_two_ints_client:main",
-            "add_two_ints_client_oop_node = simple_py_pkg.add_two_ints_client_oop:main"
-
-
+            "add_two_ints_client_oop_node = simple_py_pkg.add_two_ints_client_oop:main",
+            "components_status_publisher = simple_py_pkg.components_status_publisher:main"
+            
         ],
     },
 )

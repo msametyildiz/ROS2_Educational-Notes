@@ -1,1 +1,0 @@
-/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg/setup.py
