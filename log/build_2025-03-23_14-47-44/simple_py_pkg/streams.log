@@ -1,0 +1,29 @@
+[0.920s] Invoking command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data
+[1.256s] running egg_info
+[1.257s] writing ../../build/simple_py_pkg/simple_py_pkg.egg-info/PKG-INFO
+[1.268s] writing dependency_links to ../../build/simple_py_pkg/simple_py_pkg.egg-info/dependency_links.txt
+[1.268s] writing entry points to ../../build/simple_py_pkg/simple_py_pkg.egg-info/entry_points.txt
+[1.269s] writing requirements to ../../build/simple_py_pkg/simple_py_pkg.egg-info/requires.txt
+[1.269s] writing top-level names to ../../build/simple_py_pkg/simple_py_pkg.egg-info/top_level.txt
+[1.271s] reading manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[1.273s] writing manifest file '../../build/simple_py_pkg/simple_py_pkg.egg-info/SOURCES.txt'
+[1.274s] running build
+[1.274s] running build_py
+[1.275s] running install
+[1.276s] running install_lib
+[1.279s] running install_data
+[1.279s] running install_egg_info
+[1.281s] removing '/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info' (and everything under it)
+[1.282s] Copying ../../build/simple_py_pkg/simple_py_pkg.egg-info to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages/simple_py_pkg-0.0.0-py3.10.egg-info
+[1.284s] running install_scripts
+[1.315s] Installing add_two_ints_client_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.316s] Installing add_two_ints_client_oop_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.316s] Installing add_two_ints_server_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.316s] Installing channel_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.317s] Installing components_status_publisher script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.317s] Installing counter_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.317s] Installing py_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.317s] Installing remote_controller_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.317s] Installing television_node script to /home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/simple_py_pkg
+[1.318s] writing list of installed files to '/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log'
+[1.370s] Invoked command in '/home/muhammed-samet-yildiz/ros2_ws/src/simple_py_pkg' returned '0': PYTHONPATH=/home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/muhammed-samet-yildiz/ros2_ws/install/simple_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/simple_py_pkg build --build-base /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/build install --record /home/muhammed-samet-yildiz/ros2_ws/build/simple_py_pkg/install.log --single-version-externally-managed install_data
